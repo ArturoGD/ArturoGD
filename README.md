@@ -6,3 +6,8 @@ Hola, mi nombre es Idelfonso Arturo Gonzales Domador, docente de inglés, Ingeni
 ## Contact me
 
 Si deseas algún servicio informático o clases personalizadas de inglés contactame al 960050353.
+
+## Hobbies
+- Dancing: Alone and my mate
+- Listening: My favorite music and new songs.
+- Reading: in my room and with my friends.
