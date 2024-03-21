@@ -6,3 +6,7 @@ Hola, mi nombre es Idelfonso Arturo Gonzales Domador, docente de inglés, Ingeni
 ## Contact me
 
 Si deseas algún servicio informático o clases personalizadas de inglés contactame al 960050353.
+
+## Languages
+Estudiante con nivel de Español nativo, Inglés Intermedio.
+Estudiante en indioma Alemán básico.
