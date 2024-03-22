@@ -7,8 +7,7 @@ Hola, mi nombre es Idelfonso Arturo Gonzales Domador, docente de inglés, Ingeni
 
 Si deseas algún servicio informático o clases personalizadas de inglés contactame al 960050353.
 
-## Technologies
-
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+## Languages
+Estudiante con nivel de Español nativo, Inglés Intermedio.
+Estudiante en indioma Alemán básico.
 
